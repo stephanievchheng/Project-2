@@ -1,0 +1,4 @@
+baseURL = "http://project2.org/"
+languageCode = "en-us"
+title = "exampleSite"
+theme = "hugo-theme-learn"
