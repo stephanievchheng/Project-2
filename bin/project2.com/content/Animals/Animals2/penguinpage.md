@@ -1,19 +1,23 @@
-#**Penguins**
-##author: Stephanie Chheng
+---
+title: Penguins
+slug: "penguinpage"
+draft: false
+---
 
-This page is about penguins. Penguins are an aquatic flightless bird, native to the southern hemisphere. 
+##### Author: Stephanie Chheng
+
+This page is about penguins. Penguins are an aquatic flightless bird, native to the southern hemisphere.
 
 ![Penguin](https://cdn.pixabay.com/photo/2014/08/27/12/58/penguins-429128_1280.jpg?raw=true)
 
-##**Penguin fun facts:**
-
-1. They slide when they get tired of walking 
+### **Penguin fun facts:**
+1. They slide when they get tired of walking
 2. The smallest penguin species is the Little Blue Penguin standing at only 16 inches
-3. They camouflage in the water because their black bend looks like the ocean from above and their white belly looks like the sky from below 
+3. They camouflage in the water because their black bend looks like the ocean from above and their white belly looks like the sky from below
 4. They have a supraorbital gland that filters saltwater from their blood stream and excrete it by sneezing
-5. They molt all at once, it's called a catastrophic molt 
-6. They mate for life 
+5. They molt all at once, it's called a catastrophic molt
+6. They mate for life
 7. Male Emperor Penguins incubate their egg on top of their feet
-8. Penguins do have knees 
+8. Penguins do have knees
 9. Gentoo penguins can swim up to 22mph
-10. Penguins can sleep in the water, standing up, lying down or sitting 
+10. Penguins can sleep in the water, standing up, lying down or sitting
