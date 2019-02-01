@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Favorite Animals on exampleSite</title>
+    <link>http://project2.org/animals/</link>
+    <description>Recent content in Our Favorite Animals on exampleSite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Jan 2019 15:38:55 -0600</lastBuildDate>
+    
+	<atom:link href="http://project2.org/animals/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://project2.org/animals/animals2/penguinpage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://project2.org/animals/animals2/penguinpage/</guid>
+      <description>#Penguins ##author: Stephanie Chheng
+This page is about penguins. Penguins are an aquatic flightless bird, native to the southern hemisphere.
+##Penguin fun facts:
+ They slide when they get tired of walking The smallest penguin species is the Little Blue Penguin standing at only 16 inches They camouflage in the water because their black bend looks like the ocean from above and their white belly looks like the sky from below They have a supraorbital gland that filters saltwater from their blood stream and excrete it by sneezing They molt all at once, it&amp;rsquo;s called a catastrophic molt They mate for life Male Emperor Penguins incubate their egg on top of their feet Penguins do have knees Gentoo penguins can swim up to 22mph Penguins can sleep in the water, standing up, lying down or sitting  </description>
+    </item>
+    
+    <item>
+      <title>Test Chapter</title>
+      <link>http://project2.org/animals/animals2/testchapter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://project2.org/animals/animals2/testchapter/</guid>
+      <description>This is a test animal page</description>
+    </item>
+    
+    <item>
+      <title>Test animal</title>
+      <link>http://project2.org/animals/animals2/testanimal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://project2.org/animals/animals2/testanimal/</guid>
+      <description>This is a test animal page
+This is a test git commit again</description>
+    </item>
+    
+  </channel>
+</rss>
