@@ -8,11 +8,11 @@ draft: false
 
 ![scared cat](https://i.ytimg.com/vi/4ptZPi9e2Ko/maxresdefault.jpg "Cat Scared of Being Touched")
 
-Cats are domesticated predators that went from dangerous hunters to wimpy and fat pets. They are independent jerks that depend on us for their food.
+Cats are domesticated predators that went from dangerous hunters to wimpy and fat pets (by wimpy and fat I mean cool and suave). They are independent jerks that depend on us for their food (and we depend on them to defend us).
 
 
 
-#### Cat Behavior
+## Cat Behavior
 
 Cats have some weird behaviors left over from them being actually good at hunting:
 
