@@ -1,5 +1,11 @@
 baseURL = "http://project2.org/"
 languageCode = "en-us"
-title = "exampleSite"
+title = "Project-2"
 theme = "hugo-theme-learn"
 publishDir = "docs"
+
+
+[params]
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "red"
+  disableNextPrev = true

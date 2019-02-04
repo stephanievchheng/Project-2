@@ -8,16 +8,20 @@
   </url>
   
   <url>
-    <loc>http://project2.org/animals/animals2/penguinpage/</loc>
-  </url>
-  
-  <url>
     <loc>http://project2.org/</loc>
   </url>
   
   <url>
     <loc>http://project2.org/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://project2.org/animals/animals2/cats/</loc>
+  </url>
+  
+  <url>
+    <loc>http://project2.org/animals/animals2/penguinpage/</loc>
   </url>
   
   <url>
