@@ -1,7 +1,7 @@
 ---
 title: Tigers
 slug: "tigers"
-draft: fales
+draft: false
 ---
 
 ##### Author: Abdul Khan
