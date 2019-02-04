@@ -1,13 +1,16 @@
-#**Tigers**
-##author: Abdul Khan
+---
+title: Tigers
+slug: "tigers"
+draft: fales
+---
+
+##### Author: Abdul Khan
 
 The Tiger is the largest cat species, most recognizable for its pattern of dark vertical stripes on reddish-oranage fur.
 
 
 
-
-
-##**Cool Tiger Facts:**
+### **Cool Tiger Facts:**
 
 1.Life span in captivity is 16-18 years.
 2.Average speed of an adult tiger is 30 - 40 pmh.
