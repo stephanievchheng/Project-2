@@ -8,7 +8,7 @@ draft: false
 
 This page is about penguins. Penguins are an aquatic flightless bird, native to the southern hemisphere.
 
-![Penguin](https://cdn.pixabay.com/photo/2014/08/27/12/58/penguins-429128_1280.jpg?raw=true)
+![Penguin](https://www.carbonbrief.org/wp-content/uploads/2018/02/E462PE-king-penguin-1550x804.jpg?raw=true)
 
 ### **Penguin fun facts:**
 1. They slide when they get tired of walking
