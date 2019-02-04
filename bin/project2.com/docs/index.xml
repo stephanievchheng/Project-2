@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>exampleSite</title>
+    <title>Project-2</title>
     <link>http://project2.org/</link>
-    <description>Recent content on exampleSite</description>
+    <description>Recent content on Project-2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,15 +11,25 @@
     
     
     <item>
-      <title></title>
+      <title>Cats</title>
+      <link>http://project2.org/animals/animals2/cats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://project2.org/animals/animals2/cats/</guid>
+      <description>Author: Nathan Taylor Cats are domesticated predators that went from dangerous hunters to wimpy and fat pets. They are independent jerks that depend on us for their food.
+Cat Behavior Cats have some weird behaviors left over from them being actually good at hunting:
+ Cats give humans their dead mice because they see us as part of their group and want to share their kills.
+ Cats like squeezing into boxes and tight spaces because it makes them feel more secure.</description>
+    </item>
+    
+    <item>
+      <title>Penguins</title>
       <link>http://project2.org/animals/animals2/penguinpage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://project2.org/animals/animals2/penguinpage/</guid>
-      <description>#Penguins ##author: Stephanie Chheng
-This page is about penguins. Penguins are an aquatic flightless bird, native to the southern hemisphere.
-##Penguin fun facts:
- They slide when they get tired of walking The smallest penguin species is the Little Blue Penguin standing at only 16 inches They camouflage in the water because their black bend looks like the ocean from above and their white belly looks like the sky from below They have a supraorbital gland that filters saltwater from their blood stream and excrete it by sneezing They molt all at once, it&amp;rsquo;s called a catastrophic molt They mate for life Male Emperor Penguins incubate their egg on top of their feet Penguins do have knees Gentoo penguins can swim up to 22mph Penguins can sleep in the water, standing up, lying down or sitting  </description>
+      <description> Author: Stephanie Chheng This page is about penguins. Penguins are an aquatic flightless bird, native to the southern hemisphere.
+Penguin fun facts:  They slide when they get tired of walking The smallest penguin species is the Little Blue Penguin standing at only 16 inches They camouflage in the water because their black bend looks like the ocean from above and their white belly looks like the sky from below They have a supraorbital gland that filters saltwater from their blood stream and excrete it by sneezing They molt all at once, it&amp;rsquo;s called a catastrophic molt They mate for life Male Emperor Penguins incubate their egg on top of their feet Penguins do have knees Gentoo penguins can swim up to 22mph Penguins can sleep in the water, standing up, lying down or sitting  </description>
     </item>
     
     <item>
@@ -38,7 +48,7 @@ This page is about penguins. Penguins are an aquatic flightless bird, native to 
       
       <guid>http://project2.org/animals/animals2/testanimal/</guid>
       <description>This is a test animal page
-This is a test git commit again</description>
+This is a test git commit again and again</description>
     </item>
     
   </channel>
