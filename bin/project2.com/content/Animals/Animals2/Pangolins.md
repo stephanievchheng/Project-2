@@ -21,6 +21,8 @@ draft: false
 
 - Of the 8 species of pangolin, 2 are vulnerable, 2 endangered, and 2 are considered critically endangered
 
-- They are cool rolly boys
+- Pangolins look like an artichoke on legs 
+
+- They are cool rolly bois
 
 ![pangolin curled boi](https://www.africansafaris.com/wp-content/uploads/2016/09/rolled-up-pangolin-photo-credit-and-copyright-wildafricaconservationfund.org_.jpg)
