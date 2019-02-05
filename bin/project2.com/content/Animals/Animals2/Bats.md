@@ -24,3 +24,5 @@ There are many things about bats that make them unique, among them being:
 4. Some bats live by themselves while others live in caves with thousands of other bats.
 
 5. Vampire bats have small and extremely sharp teeth which are capable of piercing an animal’s skin (humans included) without them even noticing.
+
+![Handsome Bat](https://i.pinimg.com/originals/11/8c/5c/118c5c0ecef1b382c67af82e85571b4a.jpg "Bat Smiling for the camera")
