@@ -6,7 +6,7 @@ draft: false
 
 #### Author: Caleb Williams  
 
-![Handsome Bat](https://i.ytimg.com/vi/4ptZPi9e2Ko/maxresdefault.jpg "Bat Smiling for the camera")
+![Handsome Bat](https://www.bluestemprairie.com/.a/6a00d834516a0869e2017c324a5b47970b-800wi "Bat Smiling for the camera")
 
 Bats are mammals of the order Chiroptera; with their forelimbs adapted as wings, they are the only mammals naturally capable of true and sustained flight.
 
@@ -23,4 +23,4 @@ There are many things about bats that make them unique, among them being:
 
 4. Some bats live by themselves while others live in caves with thousands of other bats.
 
-5. Vampire bats have small and extremely sharp teeth which are capable of piercing an animal’s skin (humans included) without them even noticing.
+5. Vampire bats have small and extremely sharp teeth which are capable of piercing an animalâ€™s skin (humans included) without them even noticing.
