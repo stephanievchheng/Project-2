@@ -21,3 +21,7 @@ This page is about penguins. Penguins are an aquatic flightless bird, native to 
 8. Penguins do have knees
 9. Gentoo penguins can swim up to 22mph
 10. Penguins can sleep in the water, standing up, lying down or sitting
+11. Happy feet is the second best animated movie to exist (right behind happy feet 2) 
+12. Penguins love Cheezy Dibbles
+
+![Penguin](https://pmcvariety.files.wordpress.com/2014/11/penguins-of-madagascar.jpg?w=1000)
