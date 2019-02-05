@@ -18,8 +18,10 @@ Cats have some weird behaviors left over from them being actually good at huntin
 
 1. Cats give humans their dead mice because they see us as part of their group and want to share their kills.
 
-2. Cats like squeezing into boxes and tight spaces because it makes them feel more secure. In the wild they would hide  when trying to rest.
+2. Cats like squeezing into boxes and tight spaces because it makes them feel more secure. In the wild they would hide when trying to rest.
 
 3. Cats will chew non food items to deal with stress or sickness.
 
 4. Cats are carnivores but will eat grass or house plants to get fiber.
+
+5. Cats have scent glands on their face, so when they rub their faces on things it marks it as their property and serves as an identifier for other cats. 
